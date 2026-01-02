@@ -1,0 +1,5 @@
+{
+  "name": "NeuroScreen",
+  "description": "An interactive screening tool for early detection of neurological conditions, using quantitative performance markers and automated analysis.",
+  "requestFramePermissions": []
+}
